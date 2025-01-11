@@ -68,8 +68,8 @@ A estrutura do projeto está organizada da seguinte forma:
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/vicentevendramin/restaurant-orders.git
-    cd restaurant-orders
+    git clone https://github.com/vicentevendramin/indexing-algorithm.git
+    cd indexing-algorithm
     ```
 
 2. Crie e ative um ambiente virtual:
